@@ -1,2 +1,5 @@
 # seagray-git-recursive
 execute recursive git command for all included git repos
+
+# usage
+rgit.sh some_git_command
